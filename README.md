@@ -10,7 +10,7 @@
 
 笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。
 
-`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github.com/xxxfhy/notes-python3/edit/master/README.md) 中查看该项目。
+`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github.com/xxxfhy/notes-python3/blob/master/index.ipynb) 中查看该项目。
 
 默认安装了 `Python 3.6`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
 
